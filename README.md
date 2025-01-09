@@ -6,16 +6,16 @@ Contents
 
 The repository is organized as follows:
 
-├── hardware/              # Hardware design files (e.g., PCB layouts, circuit diagrams, BOMs)
-├── software/              # Codebase for software modules and system integration
-│   ├── microcontroller/   # Code for microcontroller programming (e.g., Arduino, Raspberry Pi)
-│   ├── app/               # Software for desktop or mobile applications interacting with the hardware
-│   └── api/               # API or middleware for hardware-software communication
-├── docs/                  # Documentation, research papers, and study materials
-├── experiments/           # Prototyping and lab experiments
-├── tests/                 # Test scripts and files for validation
-├── tools/                 # Custom scripts and utilities
-└── README.md              # Repository overview and instructions
+- ├── hardware/              # Hardware design files (e.g., PCB layouts, circuit diagrams, BOMs)
+- ├── software/              # Codebase for software modules and system integration
+- │   ├── microcontroller/   # Code for microcontroller programming (e.g., Arduino, Raspberry Pi)
+- │   ├── app/               # Software for desktop or mobile applications interacting with the hardware
+- │   └── api/               # API or middleware for hardware-software communication
+- ├── docs/                  # Documentation, research papers, and study materials
+- ├── experiments/           # Prototyping and lab experiments
+- ├── tests/                 # Test scripts and files for validation
+- ├── tools/                 # Custom scripts and utilities
+- └── README.md              # Repository overview and instructions
 
 Getting Started
 
