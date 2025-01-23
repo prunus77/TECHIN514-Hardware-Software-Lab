@@ -4,7 +4,7 @@ As plant owners we often forget to give good care to the plants. This project mo
 
 The system uses sensors to collect data and a display device for real-time feedback.
 Below is the sketch to the conceotual sketch of the device system
-![Alt text](/Users/cherry/Downloads/TECHIN514-HW-SW/Smart Plant care Assistant/IMG_1510.jpg)
+![Alt text](Smart Plant care Assistant/IMG_1510.jpg)
 
 ## Sensor Device
 The sensor device collects environmental data using soil moisture, temperature, and ambient light sensors. It sends this data via BLE to the display device. The sensors are powered by a rechargeable battery with USB charging capabilities.
