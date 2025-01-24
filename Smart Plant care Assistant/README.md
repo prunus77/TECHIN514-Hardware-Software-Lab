@@ -5,7 +5,7 @@ As plant owners we often forget to give good care to the plants. This project mo
 The system uses sensors to collect data and a display device for real-time feedback.
 Below is the sketch to the conceotual sketch of the device system:
 
-![Concept Image](Smart Plant care Assistant/Pictures/Concept Sketch.jpg)
+![Concept_Image](Smart Plant care Assistant/Pictures/Concept Sketch.jpg)
 
 ## Sensor Device
 The sensor device collects environmental data using soil moisture, temperature, and ambient light sensors. It sends this data via BLE to the display device. The sensors are powered by a rechargeable battery with USB charging capabilities.
@@ -18,14 +18,14 @@ Below are the features of the Sensor Device:
 - Enclosure: Portable and weather-resistant.
  
 Below is the Picture:
-![Alt text](Smart Plant care Assistant/Pictures/Sensing Device.png)
+![Sensing_Device](Smart Plant care Assistant/Pictures/Sensing Device.png)
 
 
 ## Display Device
 The display device receives data from the sensor device via BLE and visualizes it. A gauge needle shows soil moisture levels, LEDs indicate environmental conditions (e.g., too hot, too dry), and a button allows users to interact with the system. The device is powered by a thoughtfully sized battery with USB charging.
 
 Below are the features of the Sensor Device:
-![Alt text](Smart Plant care Assistant/Pictures/Display Device.png)
+![Display Device](Smart Plant care Assistant/Pictures/Display Device.png)
 
 - Stepper motor-driven needle gauge: Indicates the level of care needed
 - LED indicators: Indicates the if plant needs watering
@@ -35,7 +35,7 @@ Below are the features of the Sensor Device:
 
 ## Communication and System Diagram
 - Figure 1: Communication diagram showing how the sensor and display devices interact via BLE.
-![Alt text](Smart Plant care Assistant/Pictures/Cloud Architecture.png)
+![Cloud_Architecture](Smart Plant care Assistant/Pictures/Cloud Architecture.png)
 
 - Figure 2: Detailed system architecture showing sensors, microcontroller, wireless communication, and power flow.
-![Alt text](Smart Plant care Assistant/Pictures/System Architecture flowchart.png)
+![Flowchart](Smart Plant care Assistant/Pictures/System Architecture flowchart.png)
