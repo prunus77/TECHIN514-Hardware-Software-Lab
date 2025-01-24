@@ -16,8 +16,8 @@ Below are the features of the Sensor Device:
 - Power source: Rechargeable battery.
 - Enclosure: Portable and weather-resistant.
  
- Below is the Picture:
- ![Alt text](/Users/cherry/Downloads/TECHIN514-HW-SW/Smart Plant care Assistant/Sensing Device.png)
+Below is the Picture:
+![Alt text](/Users/cherry/Downloads/TECHIN514-HW-SW/Smart Plant care Assistant/Sensing Device.png)
 
 
 ## Display Device
@@ -33,7 +33,7 @@ Below are the features of the Sensor Device:
 
 ## Communication and System Diagram
 - Figure 1: Communication diagram showing how the sensor and display devices interact via BLE.
- ![Alt text](/Users/cherry/Downloads/TECHIN514-HW-SW/Smart Plant care Assistant/Cloud Architecture.png)
+![Alt text](/Users/cherry/Downloads/TECHIN514-HW-SW/Smart Plant care Assistant/Cloud Architecture.png)
 
 - Figure 2: Detailed system architecture showing sensors, microcontroller, wireless communication, and power flow.
- ![Alt text](/Users/cherry/Downloads/TECHIN514-HW-SW/Smart Plant care Assistant/System Architecture flowchart.png)
+![Alt text](/Users/cherry/Downloads/TECHIN514-HW-SW/Smart Plant care Assistant/System Architecture flowchart.png)
