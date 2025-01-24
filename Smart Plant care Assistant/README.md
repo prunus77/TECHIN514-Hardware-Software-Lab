@@ -3,7 +3,8 @@
 As plant owners we often forget to give good care to the plants. This project monitors soil moisture, temperature, and ambient light to provide actionable insights for optimal plant care. 
 
 The system uses sensors to collect data and a display device for real-time feedback.
-Below is the sketch to the conceotual sketch of the device system
+Below is the sketch to the conceotual sketch of the device system:
+
 ![Concept Image](Pictures/Concept Sketch.jpg)
 
 ## Sensor Device
