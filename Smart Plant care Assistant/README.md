@@ -1,11 +1,11 @@
 
-# General Overview: Smart Plant Care Assistant
+# Smart Plant Care Assistant
 As plant owners we often forget to give good care to the plants. This project monitors soil moisture, temperature, and ambient light to provide actionable insights for optimal plant care. 
 
 The system uses sensors to collect data and a display device for real-time feedback.
 Below is the sketch to the conceotual sketch of the device system:
 
-![Concept_Image](Smart Plant care Assistant/Pictures/Concept Sketch.jpg)
+    ![Concept_Image](Smart Plant care Assistant/Pictures/Concept Sketch.jpg)
 
 ## Sensor Device
 The sensor device collects environmental data using soil moisture, temperature, and ambient light sensors. It sends this data via BLE to the display device. The sensors are powered by a rechargeable battery with USB charging capabilities.
@@ -18,7 +18,7 @@ Below are the features of the Sensor Device:
 - Enclosure: Portable and weather-resistant.
  
 Below is the Picture:
-![Sensing_Device](Smart Plant care Assistant/Pictures/Sensing Device.png)
+    ![Sensing_Device](Smart Plant care Assistant/Pictures/Sensing Device.png)
 
 
 ## Display Device
@@ -35,7 +35,7 @@ Below are the features of the Sensor Device:
 
 ## Communication and System Diagram
 - Figure 1: Communication diagram showing how the sensor and display devices interact via BLE.
-![Cloud_Architecture](Smart Plant care Assistant/Pictures/Cloud Architecture.png)
+    ![Cloud_Architecture](Smart Plant care Assistant/Pictures/Cloud Architecture.png)
 
 - Figure 2: Detailed system architecture showing sensors, microcontroller, wireless communication, and power flow.
-![Flowchart](Smart Plant care Assistant/Pictures/System Architecture flowchart.png)
+    ![Flowchart](Smart Plant care Assistant/Pictures/System Architecture flowchart.png)
